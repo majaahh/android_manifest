@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="packages/modules/ImsMedia" name="ExtremeXT/ImsMedia" groups="pdk" remote="github" revision="lineage-24.0" />
+</manifest>
