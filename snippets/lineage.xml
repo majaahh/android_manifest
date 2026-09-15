@@ -12,6 +12,7 @@
   <project path="external/unrar" name="LineageOS/android_external_unrar" revision="lineage-24.0" remote="lineageos" />
   <project path="external/vim" name="LineageOS/android_external_vim" revision="lineage-24.0" remote="lineageos" />
   <project path="hardware/lineage/compat" name="LineageOS/android_hardware_lineage_compat" remote="lineageos" />
+  <project path="hardware/lineage/generic-ims" name="LineageOS/android_hardware_lineage_generic-ims" remote="lineageos" />
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" remote="lineageos" />
   <project path="packages/apps/EuiccPolicy" name="LineageOS/android_packages_apps_EuiccPolicy" revision="lineage-24.0" remote="lineageos" />
   <project path="packages/apps/Aperture" name="LineageOS/android_packages_apps_Aperture" revision="lineage-24.0" remote="lineageos" />
@@ -20,6 +21,8 @@
   <project path="prebuilts/extract-tools" name="LineageOS/android_prebuilts_extract-tools" clone-depth="1" remote="lineageos" />
   <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" remote="lineageos" />
   <project path="vendor/apn" name="LineageOS/android_vendor_apn" revision="main" remote="lineageos" />
+  <!-- LineageOS forks -->
+  <project path="packages/modules/ImsMedia" name="LineageOS/android_packages_modules_ImsMedia" groups="pdk" remote="lineageos" />
   <!-- Legacy AOSP additions -->
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" revision="refs/tags/android-11.0.0_r46" />
   <project path="hardware/knowles/athletico/sound_trigger_hal" name="LineageOS/android_hardware_knowles_athletico_sound_trigger_hal" groups="coral" remote="lineageos" />
